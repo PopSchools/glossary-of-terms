@@ -1,1 +1,1 @@
-# glossary-of-term
+# Glossary Of Terms
